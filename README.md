@@ -6,3 +6,8 @@ conda env list
 conda activate assistant
 pip list
 pip install -r requirements.txt
+
+
+
+
+AIzaSyAiAh4_AYJC09387uB_Z8RTvK4IHQKJWFw
